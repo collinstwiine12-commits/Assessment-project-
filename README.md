@@ -1,12 +1,12 @@
-##Assessment-project-
+## Assessment-project-
 
-##Project description
+## Project description
 
 This project is part of my IT coursework for the semester.  
 It is designed to help me practice using GitHub for version control and to build a simple starter webpage.  
 The repository will grow as I add more files and demonstrate progress through commits.
 
-##Purpose
+## Purpose
 
 The purpose of this project is to:
 - Learn how to create and manage a GitHub repository.  
@@ -14,7 +14,7 @@ The purpose of this project is to:
 - Organize project files in a clear folder structure.  
 - Build a basic webpage (`index.html`) as a starting point.  
 
-##Status
+## Status
 - Repository has been created and named clearly.  
 - README file added with project description.  
 - Folders (`src`, `docs`, `images`) have been set up.  
